@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> Skills </h2>
+<h2 style="color:red">📚 Skills </h2>
 <hr>
 
 <ul>
