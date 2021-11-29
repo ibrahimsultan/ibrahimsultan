@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>📚 Skills </h1>
+<h1> <img src="https://cdn-icons-png.flaticon.com/512/2303/2303851.png"> Skills </h1>
 <hr>
 
 <ul>
