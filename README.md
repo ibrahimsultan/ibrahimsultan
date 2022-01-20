@@ -6,8 +6,8 @@
 <ul>
   <li>HTML & CSS</li>
   <li>Javascript</li>
+  <li>Java</li>
   <li>Node JS</li>
-  <li>PHP</li>
   <li>Data structure</li>
   <li>Algorithms</li>
   <li>ReactJS</li>
