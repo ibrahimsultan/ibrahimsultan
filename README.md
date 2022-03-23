@@ -11,6 +11,5 @@
   <li>Data structure</li>
   <li>Algorithms</li>
   <li>ReactJS</li>
-  <li>Bootstrap5</li>
-  <li>SAAS</li>
+  
 </ul>
